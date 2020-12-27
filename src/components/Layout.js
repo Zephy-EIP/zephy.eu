@@ -38,8 +38,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Eventually' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'Zephy - Epitech EIP - Zephy est un assistant personnalisable qui a pour but de faciliter la plannification de tous vos déplacements urbains. Il vous propose des trajets adapté à votre agenda, vos moyens de transports disponibles ainsi que le taux d\'affluence dans les transports en commun.' },
+                { name: 'keywords', content: 'Zephy, Eip, Epitech' },
               ]}
             >
               <html lang="en" />

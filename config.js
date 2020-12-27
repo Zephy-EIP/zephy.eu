@@ -6,8 +6,8 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/images/website-icon.png',
-  pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
+  manifestIcon: 'src/assets/images/logo.png',
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'Zephy.eu',
   subHeading:
