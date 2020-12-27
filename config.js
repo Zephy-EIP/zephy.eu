@@ -3,8 +3,8 @@ module.exports = {
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#ffffff',
+  manifestThemeColor: '#ffffff',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/logo.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
