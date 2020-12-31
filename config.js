@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Zephy.eu',
   subHeading:
-    "Zephy est un assistant personnalisable qui a pour but de faciliter la plannification de tous vos déplacements urbains. Il vous propose des trajets adapté à votre agenda, vos moyens de transports disponibles ainsi que le taux d'affluence dans les transports en commun.",
+    "Zephy est un assistant personnalisable qui a pour but de faciliter la plannification de tous vos déplacements urbains.",
   socialLinks: [
     {
       icon: 'fa-github',
@@ -21,12 +21,12 @@ module.exports = {
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/zephy_44',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/zephy_44/',
     },
     {
       icon: 'fa-envelope-o',
