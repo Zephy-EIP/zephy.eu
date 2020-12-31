@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f3f2937-4355-4321-a5e9-27912c7f93c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/EmailForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EmailForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
       <updated>1609064476896</updated>
       <workItem from="1609064478317" duration="4493000" />
       <workItem from="1609081732557" duration="38000" />
-      <workItem from="1609425209782" duration="2404000" />
+      <workItem from="1609425209782" duration="3607000" />
     </task>
     <servers />
   </component>

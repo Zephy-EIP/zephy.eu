@@ -18,8 +18,14 @@ export class EmailForm extends Component {
     e.stopPropagation();
     addToMailchimp(this.state.email) // listFields are optional if you are only capturing the email address.
       .then(data => {
+        let message = '';
+        if (data.result === 'error') {
+          message = 'Erreur, vous êtes peut-être déjà inscrit ou vérifiez votre adresse mail.';
+        } else {
+          message = 'Merci, à bientôt.';
+        }
         this.setState({ email: ''});
-        this.setState({ message: 'Merci, à bientôt.' });
+        this.setState({ message: message });
         setTimeout(() => {
           this.setState({ message: '' });
         }, 3000);
