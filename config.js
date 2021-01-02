@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Zephy', // <title>
-  manifestName: 'Eventually',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestName: 'Zephy',
+  manifestShortName: 'Zephy', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#ffffff',
   manifestThemeColor: '#ffffff',
@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/images/logo.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Zephy.eu',
+  heading: 'Zephy',
   subHeading:
     "Zephy est un assistant personnalisable qui a pour but de faciliter la plannification de tous vos déplacements urbains.",
   socialLinks: [
