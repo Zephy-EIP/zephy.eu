@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#ffffff',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/logo.png',
-  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/zephy.eu`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'Zephy',
   subHeading:
